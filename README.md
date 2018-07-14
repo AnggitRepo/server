@@ -1,0 +1,2 @@
+# server
+sebagai server heroku
